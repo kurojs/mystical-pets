@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+issueTrackerURL="https://github.com/yourusername/pets/issues"
+
+[[mods]]
+modId="pets"
+version="1.0.0"
+displayName="Pets"
+updateJSONURL=""
+displayURL="https://github.com/yourusername/pets"
+logoFile=""
+credits="Decompiled and rebuilt for Forge MDK"
+authors="User"
+description='''
+A Minecraft mod that adds pet-related features and companions to the game, allowing you to befriend and interact with new creatures.
+'''
+
+[[dependencies.pets]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.pets]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
