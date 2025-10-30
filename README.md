@@ -4,6 +4,10 @@ A Minecraft mod that adds unique mystical pets with special abilities, interacti
 
 ## Features
 
+![Pets Preview](https://i.imgur.com/KZ2G1SA.png)
+
+https://i.imgur.com/c6u0cA6.mp4
+
 ### Pets
 
 This mod adds a variety of unique pets that can be obtained and interacted with in various ways.
